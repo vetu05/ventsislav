@@ -1,1 +1,2 @@
 # ventsislav
+Passionate and dedicated Full Stack Developer with expertise in Java, SQL databases, HTML/CSS, and JavaScript. Student of Softuni, proficient in Java fundamentals, OOP Java, and advanced Java concepts. Responsive front-end designs, and developing efficient back-end solutions. Solid understanding of SQL databases and data modeling. Continuously expanding knowledge in web development and exploring emerging technologies.
